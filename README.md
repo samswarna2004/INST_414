@@ -121,7 +121,6 @@ These align strongly with golf analytics research.
 | Random Forest       | ...      | ...       | ...    | ...| ...     |
 | Gradient Boosting   | ...      | ...       | ...    | ...| ...     |
 
-*(Your table will auto-populate based on the script output.)*
 
 ---
 
